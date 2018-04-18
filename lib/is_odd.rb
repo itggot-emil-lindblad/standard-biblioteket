@@ -5,4 +5,3 @@ def is_odd(number)
     return true
 end
 
-puts is_odd(-10)

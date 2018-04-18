@@ -5,4 +5,3 @@ def is_even(number)
     return false 
 end
 
-puts is_even(5)
