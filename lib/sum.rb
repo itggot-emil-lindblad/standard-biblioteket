@@ -1,4 +1,4 @@
-Public: 
+# Public: 
 def sum(arr)
     output = 0
     i = 0
